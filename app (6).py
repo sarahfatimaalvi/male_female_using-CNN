@@ -123,5 +123,3 @@ st.markdown("""
 - Supported formats: JPG, JPEG, PNG.
 - Best results are obtained with front-facing images.
 """)
-
-st.caption("Developed using ❤️ Streamlit & TensorFlow")
