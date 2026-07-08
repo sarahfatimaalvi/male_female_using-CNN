@@ -1,6 +1,5 @@
-streamlit
-numpy
-scikit-learn
-joblib
-Pillow
-opencv-python-headless
+streamlit==1.46.1
+numpy==1.26.4
+tensorflow-cpu==2.16.1
+Pillow==10.4.0
+h5py==3.11.0
